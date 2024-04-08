@@ -1,10 +1,6 @@
 ﻿//THIS TRADING BOT IS BASED ON René Balke MQL5 TURTOTIAL
 //https://www.youtube.com/watch?v=nlj9gUuf7Wg&list=LL&index=3
 
-#property copyright "Giorgos Tsantekidis"
-#property link      "https://users.iee.ihu.gr/~giortsan/Personal%20Website/HomePage/"
-#property version   "1.00"
-
 #include <Trade/Trade.mqh>
 
 CTrade trade;
