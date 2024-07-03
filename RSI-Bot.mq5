@@ -1,6 +1,3 @@
-﻿//THIS TRADING BOT IS BASED ON René Balke MQL5 TURTOTIAL
-//https://www.youtube.com/watch?v=nlj9gUuf7Wg&list=LL&index=3
-
 #include <Trade/Trade.mqh>
 
 CTrade trade;
